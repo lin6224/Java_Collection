@@ -2,12 +2,11 @@ package ca.jae.set;
 
 import java.util.HashSet;
 import java.util.Iterator;
-
 public class HashSetDemo {
 /* 
  * set ia a collection, and it cannot contain duplicate elements
  * 
- * set -> hashset and treeset
+ * set -> HashSet, TreeSet LinkedHashSet
  *
 */	
 	

@@ -8,6 +8,13 @@ import java.util.*;
 *	List has collection implement
 *		 -> ArrayList (Vector) : base on array structure
 *		 -> LinkedList		   : base on link structure	
+*
+*
+*	ArrayList has add() addAll() size() clear() isEmpty()
+*				  remove() removeAll() retainAll()
+*				  equals() contains() containsAll()
+*				  hashcode()
+*				  iterator() toArray()
 */
 
 public class ArrayListDemo {

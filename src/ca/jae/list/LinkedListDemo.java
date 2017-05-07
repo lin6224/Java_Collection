@@ -9,6 +9,11 @@ import java.util.ListIterator;
 
 public class LinkedListDemo {
 	public static void main(String[] arg){
+		// linkedlist is same operate like arraylist
+		// but it is link structure, and arraylist is basic array structure
+		// CRUD speed is different
+		
+		
 		LinkedList al = new LinkedList();
 		//add object(elements) in arraylist
 		al.add("java");
