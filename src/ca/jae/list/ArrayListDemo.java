@@ -70,8 +70,9 @@ public class ArrayListDemo {
 		}
 		System.out.println(al);
 		
-		// get element to index position
-		System.out.println(al.get(0));
+		// get element to index position		
+		String information = (String)al.get(0);
+		System.out.println(information);
 		
 		// clear all element in this arraylist
 		al.clear();
